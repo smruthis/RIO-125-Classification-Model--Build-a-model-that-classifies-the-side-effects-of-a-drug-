@@ -123,10 +123,11 @@ The column ‘Effectiveness’ is taken as the target column.
 Here, the accuracy of the model is 0.5901 using Gradient Boosting algorithm.
 
 **HYPERPARAMETER TUNING**
+
 The hyperparameter tuning process was conducted to optimize the machine
 learning model's performance for predicting a target variable in the given dataset.
 
-
+**CODE**: https://github.com/smruthis/RIO-125-Classification-Model--Build-a-model-that-classifies-the-side-effects-of-a-drug-/blob/main/Project%20code.ipynb
 
 
 
