@@ -1,4 +1,6 @@
-**OBJECTIVE**: To build a classification model that classifies the side effects of a particular drug by Age, Race and Gender. For this we collected a dataset that contains details of some drugs. Dataset contains the details of 7093 drugs, their side effects and the rating of people about their satisfaction, effectiveness, ease of use etc.
+**OBJECTIVE**:
+
+To build a classification model that classifies the side effects of a particular drug by Age, Race and Gender. For this we collected a dataset that contains details of some drugs. Dataset contains the details of 7093 drugs, their side effects and the rating of people about their satisfaction, effectiveness, ease of use etc.
 
 **INTRODUCTION**
 The healthcare industry has always been a strong supporter of cutting-edge
@@ -128,6 +130,8 @@ The hyperparameter tuning process was conducted to optimize the machine
 learning model's performance for predicting a target variable in the given dataset.
 
 **CODE**: https://github.com/smruthis/RIO-125-Classification-Model--Build-a-model-that-classifies-the-side-effects-of-a-drug-/blob/main/Project%20code.ipynb
+
+**FULL PROJECT REPORT**: https://drive.google.com/file/d/1JLWm0--BHEKNmelqLED60Lu9CGBEInyS/view?usp=sharing
 
 
 
